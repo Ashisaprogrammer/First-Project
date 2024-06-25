@@ -1,2 +1,2 @@
-# TimeTable Generator
- Will Randomise a Timetable based on user inputs for subjects, teachers and working hours per weel
+# Slot Machine 
+Slot machine game with betting and what not
